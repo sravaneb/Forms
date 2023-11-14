@@ -1,0 +1,47 @@
+.App {
+  text-align: start;
+  
+}
+
+h1{
+  text-align: center;
+}
+.App-header {
+  border: 2px ridge white;
+  background-color: beige;
+  
+}
+
+.fileDiv{
+  visibility: hidden;
+}
+
+.App-middle{
+
+  border: 2px ridge white;
+  background-color: beige;
+
+}
+
+.App-middle2{
+
+  border: 2px ridge white;
+  background-color: beige;
+}
+
+.App-footer{
+
+  border: 2px ridge white;
+  background-color: beige;
+
+}
+
+.footer{
+  text-align: center;
+}
+
+.form-container2{
+
+  display: flex;
+  flex-direction: column;
+}
